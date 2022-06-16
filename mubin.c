@@ -5,7 +5,7 @@
 
 long int pat_id[1000]={130521001,140521001,140521002};//data for patient id
 char pat_name[1000][100]={"Mubin","Wasif","Guts"};//data for patient name
-char disease[1000][100]={"AIDS","COVID-19","Wound"};//data for patient's disease name
+char disease[1000][100]={"AIDS","COVID-19","Life"};//data for patient's disease name
 int room_no[1000]={201,901,101};//data for patient room no
 int n=3;//total patient number
 
